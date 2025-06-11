@@ -4,11 +4,9 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Skills
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" />
-  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+[![Skills](https://api.devicons.dev.br/icon?icons=Python%2CArduino&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
           
           
 
